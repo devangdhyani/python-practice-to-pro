@@ -1,0 +1,8 @@
+first =input("value of first:")
+second=input("val of sec:")
+sum=int(first)+int(second)
+print("sum="+str(sum)) // it will print val of 1 $ value of sec =sum
+  =======================================================================
+  birth_year=input("what is your birth_year")
+birth_year=int(birth_year)
+print(2024-birth_year) /// it wil print your current age & can also your yr of birth
